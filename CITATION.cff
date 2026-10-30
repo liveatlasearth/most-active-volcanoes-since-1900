@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, along with the original source."
+type: dataset
+title: "Most Active Volcanoes Since 1900"
+version: "1.0"
+date-released: 2026-10-30
+license: CC-BY-4.0
+url: "https://github.com/liveatlasearth/most-active-volcanoes-since-1900"
+keywords:
+  - volcanoes
+  - eruptions
+  - dataset
+  - smithsonian
+  - natural-disasters
+  - csv
+  - geology
+  - geospatial
+authors:
+  - given-names: Nathan
+    family-names: Ridge
+    affiliation: Live Atlas
+  - name: Live Atlas
+    website: "https://www.liveatlas.earth/"

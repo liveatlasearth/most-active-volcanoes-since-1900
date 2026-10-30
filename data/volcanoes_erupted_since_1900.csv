@@ -1,0 +1,487 @@
+rank,gvp_volcano_number,volcano,country,volcano_type,latitude,longitude,elevation_m,eruptions_since_1900,max_vei_since_1900,max_vei_on_record,last_eruption_year,liveatlas_url
+1,233020,Piton de la Fournaise,France,Shield volcano,-21.244,55.708,2632,105,2,5,2026,https://www.liveatlas.earth/volcanoes/piton-de-la-fournaise/
+2,282110,Asosan,Japan,Caldera,32.885,131.085,1592,78,3,3,2021,https://www.liveatlas.earth/volcanoes/asosan/
+3,300260,Klyuchevskoy,Russia,Stratovolcano,56.056,160.642,4754,75,4,4,2025,https://www.liveatlas.earth/volcanoes/klyuchevskoy/
+4,300250,Bezymianny,Russia,Stratovolcano,55.972,160.595,2882,58,5,5,2025,https://www.liveatlas.earth/volcanoes/bezymianny/
+5,241100,Mount Ruapehu,New Zealand,Stratovolcano,-39.28,175.57,2797,57,3,4,2007,https://www.liveatlas.earth/volcanoes/mount-ruapehu/
+6,263340,Raung,Indonesia,Stratovolcano,-8.119,114.056,3260,56,3,5,2025,https://www.liveatlas.earth/volcanoes/raung/
+7,267020,Karangetang,Indonesia,Stratovolcano,2.781,125.407,1797,53,3,3,2023,https://www.liveatlas.earth/volcanoes/karangetang/
+8,283110,Asamayama,Japan,Volcanic complex,36.406,138.523,2568,52,3,5,2019,https://www.liveatlas.earth/volcanoes/asamayama/
+9,261140,Marapi,Indonesia,Volcanic complex,-0.38,100.474,2885,50,2,2,2026,https://www.liveatlas.earth/volcanoes/marapi/
+10,241080,Mount Tongariro,New Zealand,Stratovolcano,-39.157,175.632,1978,48,3,5,2012,https://www.liveatlas.earth/volcanoes/mount-tongariro/
+11,345040,Poás Volcano,Costa Rica,Stratovolcano,10.2,-84.233,2697,48,2,2,2026,https://www.liveatlas.earth/volcanoes/poas-volcano/
+12,357120,Villarrica Volcano,Chile,Stratovolcano,-39.42,-71.93,2847,48,3,5,2025,https://www.liveatlas.earth/volcanoes/villarrica-volcano/
+13,257040,Ambrym,Vanuatu,Pyroclastic shield,-16.25,168.12,1334,47,4,6,2024,https://www.liveatlas.earth/volcanoes/ambrym/
+14,262000,Krakatau,Indonesia,Caldera,-6.101,105.423,285,47,3,6,2024,https://www.liveatlas.earth/volcanoes/krakatau/
+15,344040,Telica,Nicaragua,Stratovolcano,12.606,-86.84,1036,47,2,4,2025,https://www.liveatlas.earth/volcanoes/telica/
+16,252120,Ulawun,Papua New Guinea,Stratovolcano,-5.05,151.33,2334,47,4,4,2025,https://www.liveatlas.earth/volcanoes/ulawun/
+17,211060,Mount Etna,Italy,Stratovolcano,37.748,14.999,3357,43,3,5,2026,https://www.liveatlas.earth/volcanoes/mount-etna/
+18,223020,Nyamulagira,Democratic Republic of the Congo,Shield volcano,-1.408,29.2,3058,43,3,3,2026,https://www.liveatlas.earth/volcanoes/nyamulagira/
+19,284010,Izu Ōshima,Japan,Stratovolcano,34.724,139.394,758,39,3,4,1990,https://www.liveatlas.earth/volcanoes/izu-oshima/
+20,284130,Fukutoku-Oka-no-Ba,Japan,Pyroclastic cone,24.285,141.481,-29,38,4,4,2021,https://www.liveatlas.earth/volcanoes/fukutoku-oka-no-ba/
+21,332010,Kīlauea,United States of America,Shield volcano,19.421,-155.287,1222,37,3,4,2026,https://www.liveatlas.earth/volcanoes/kilauea/
+22,251020,Manam,Papua New Guinea,Stratovolcano,-4.08,145.037,1807,37,4,4,2026,https://www.liveatlas.earth/volcanoes/manam/
+23,357110,Llaima,Chile,Stratovolcano,-38.692,-71.729,3125,36,3,5,2009,https://www.liveatlas.earth/volcanoes/llaima/
+24,263180,Slamet,Indonesia,Stratovolcano,-7.242,109.208,3428,36,2,2,2014,https://www.liveatlas.earth/volcanoes/slamet/
+25,241040,Whakaari / White Island,New Zealand,Stratovolcano,-37.52,177.18,294,36,3,3,2026,https://www.liveatlas.earth/volcanoes/whakaari-white-island/
+26,312030,Mount Pavlof,United States of America,Stratovolcano,55.417,-161.894,2493,35,3,4,2022,https://www.liveatlas.earth/volcanoes/mount-pavlof/
+27,266030,Soputan,Indonesia,Stratovolcano,1.112,124.737,1785,35,3,3,2020,https://www.liveatlas.earth/volcanoes/soputan/
+28,255060,Kavachi,Solomon Islands,Stratovolcano,-8.991,157.979,-20,34,2,2,2014,https://www.liveatlas.earth/volcanoes/kavachi/
+29,263250,Merapi,Indonesia,Stratovolcano,-7.54,110.446,2910,34,4,4,2026,https://www.liveatlas.earth/volcanoes/merapi/
+30,261170,Mount Kerinci,Indonesia,Stratovolcano,-1.697,101.264,3800,34,2,2,2024,https://www.liveatlas.earth/volcanoes/mount-kerinci/
+31,263310,Tengger Caldera (Bromo),Indonesia,Stratovolcano,-7.942,112.95,2329,34,3,4,2023,https://www.liveatlas.earth/volcanoes/tengger-caldera-bromo/
+32,300130,Karymsky,Russia,Stratovolcano,54.049,159.443,1513,33,3,6,2025,https://www.liveatlas.earth/volcanoes/karymsky/
+33,311360,Mount Shishaldin,United States of America,Stratovolcano,54.756,-163.97,2857,33,3,3,2023,https://www.liveatlas.earth/volcanoes/mount-shishaldin/
+34,344020,Volcán San Cristóbal,Nicaragua,Stratovolcano,12.702,-87.004,1745,33,3,3,2024,https://www.liveatlas.earth/volcanoes/volcan-san-cristobal/
+35,284120,Ioto,Japan,Caldera,24.75,141.289,172,31,1,1,2025,https://www.liveatlas.earth/volcanoes/ioto/
+36,273030,Mayon Volcano,Philippines,Stratovolcano,13.257,123.685,2462,31,3,4,2026,https://www.liveatlas.earth/volcanoes/mayon-volcano/
+37,344120,Concepción,Nicaragua,Stratovolcano,11.538,-85.622,1700,30,2,4,2024,https://www.liveatlas.earth/volcanoes/concepcion/
+38,355100,Lascar,Chile,Stratovolcano,-23.37,-67.73,5592,29,4,4,2026,https://www.liveatlas.earth/volcanoes/lascar/
+39,272020,Kanlaon Volcano,Philippines,Stratovolcano,10.41,123.13,2422,28,3,3,2026,https://www.liveatlas.earth/volcanoes/kanlaon-volcano/
+40,311320,Mount Akutan,United States of America,Stratovolcano,54.134,-165.986,1303,28,2,5,1992,https://www.liveatlas.earth/volcanoes/mount-akutan/
+41,311240,Mount Cleveland,United States of America,Stratovolcano,52.825,-169.944,1730,28,3,3,2020,https://www.liveatlas.earth/volcanoes/mount-cleveland/
+42,343100,San Miguel,El Salvador,Stratovolcano,13.434,-88.269,2130,28,3,3,2023,https://www.liveatlas.earth/volcanoes/san-miguel/
+43,252010,Langila,Papua New Guinea,Volcanic complex,-5.525,148.42,1330,27,3,3,2026,https://www.liveatlas.earth/volcanoes/langila/
+44,266100,Lokon-Empung,Indonesia,Stratovolcano,1.364,124.799,1580,27,3,3,2015,https://www.liveatlas.earth/volcanoes/lokon-empung/
+45,242050,Monowai,New Zealand,Stratovolcano,-25.887,-177.188,-132,27,1,1,2014,https://www.liveatlas.earth/volcanoes/monowai/
+46,268060,Gamalama,Indonesia,Stratovolcano,0.81,127.332,1714,26,3,3,2018,https://www.liveatlas.earth/volcanoes/gamalama/
+47,257050,Lopevi,Vanuatu,Stratovolcano,-16.507,168.346,1413,26,3,3,2007,https://www.liveatlas.earth/volcanoes/lopevi/
+48,263300,Semeru,Indonesia,Stratovolcano,-8.108,112.922,3657,26,4,4,2026,https://www.liveatlas.earth/volcanoes/semeru/
+49,300240,Tolbachik,Russia,Shield volcano,55.832,160.326,3611,26,4,4,2013,https://www.liveatlas.earth/volcanoes/tolbachik/
+50,344100,Volcán Masaya,Nicaragua,Caldera,11.984,-86.169,594,26,2,6,2026,https://www.liveatlas.earth/volcanoes/volcan-masaya/
+51,283070,Yakedake,Japan,Stratovolcano,36.227,137.587,2455,26,2,4,1995,https://www.liveatlas.earth/volcanoes/yakedake/
+52,345020,Rincón de la Vieja Volcano,Costa Rica,Volcanic complex,10.831,-85.336,1729,25,3,4,2024,https://www.liveatlas.earth/volcanoes/rincon-de-la-vieja-volcano/
+53,261230,Dempo,Indonesia,Stratovolcano,-4.016,103.121,3142,24,2,2,2025,https://www.liveatlas.earth/volcanoes/dempo/
+54,285040,Shikotsu,Japan,Caldera,42.688,141.38,1320,24,3,5,1981,https://www.liveatlas.earth/volcanoes/shikotsu/
+55,353010,Fernandina,Ecuador,Shield volcano,-0.37,-91.55,1476,23,4,4,2024,https://www.liveatlas.earth/volcanoes/fernandina/
+56,351080,Galeras,Colombia,Volcanic complex,1.22,-77.37,4276,22,3,3,2014,https://www.liveatlas.earth/volcanoes/galeras/
+57,284070,Myojinsho,Japan,Caldera,31.888,139.918,11,22,2,2,1970,https://www.liveatlas.earth/volcanoes/myojinsho/
+58,284080,Sumisujima,Japan,Caldera,31.44,140.051,136,22,0,2,1916,https://www.liveatlas.earth/volcanoes/sumisujima/
+59,285070,Akan,Japan,Caldera,43.386,144.009,1499,21,1,4,2026,https://www.liveatlas.earth/volcanoes/akan/
+60,341040,Colima,Mexico,Stratovolcano,19.514,-103.62,3850,21,4,4,2019,https://www.liveatlas.earth/volcanoes/colima/
+61,263200,Dieng Volcanic Complex,Indonesia,Volcanic complex,-7.2,109.879,2565,21,2,3,2025,https://www.liveatlas.earth/volcanoes/dieng-volcanic-complex/
+62,342090,Fuego,Guatemala,Stratovolcano,14.475,-90.881,3799,21,4,4,2026,https://www.liveatlas.earth/volcanoes/fuego/
+63,284110,Funka Asane,Japan,Stratovolcano,25.455,141.239,-20,21,2,2,2022,https://www.liveatlas.earth/volcanoes/funka-asane/
+64,283120,Kusatsu-Shiranesan,Japan,Stratovolcano,36.618,138.528,2165,21,3,4,2018,https://www.liveatlas.earth/volcanoes/kusatsu-shiranesan/
+65,264010,Mount Batur,Indonesia,Caldera,-8.24,115.378,1711,21,2,2,2000,https://www.liveatlas.earth/volcanoes/mount-batur/
+66,222120,Ol Doinyo Lengai,Tanzania,Stratovolcano,-2.764,35.914,2962,21,3,3,2026,https://www.liveatlas.earth/volcanoes/ol-doinyo-lengai/
+67,282030,Suwanosejima,Japan,Stratovolcano,29.638,129.714,796,21,3,4,2026,https://www.liveatlas.earth/volcanoes/suwanosejima/
+68,344070,Volcán Cerro Negro,Nicaragua,Pyroclastic cone,12.506,-86.702,728,21,3,3,1999,https://www.liveatlas.earth/volcanoes/volcan-cerro-negro/
+69,255020,Bagana,Papua New Guinea,Lava cone,-6.137,155.196,1855,20,4,4,2026,https://www.liveatlas.earth/volcanoes/bagana/
+70,290360,Chikurachki,Russia,Stratovolcano,50.324,155.461,1781,20,4,4,2023,https://www.liveatlas.earth/volcanoes/chikurachki/
+71,373010,Grímsvötn,Iceland,Caldera,64.416,-17.316,1719,20,4,6,2011,https://www.liveatlas.earth/volcanoes/grimsvotn/
+72,312070,Mount Veniaminof,United States of America,Stratovolcano,56.17,-159.38,2507,20,3,6,2021,https://www.liveatlas.earth/volcanoes/mount-veniaminof/
+73,273010,Mount Bulusan,Philippines,Stratovolcano,12.769,124.056,1535,19,3,3,2025,https://www.liveatlas.earth/volcanoes/mount-bulusan/
+74,241050,Okataina,New Zealand,Lava dome,-38.157,176.507,1111,19,1,5,1981,https://www.liveatlas.earth/volcanoes/okataina/
+75,290240,Sarychev Peak,Russia,Stratovolcano,48.092,153.2,1496,19,4,4,2021,https://www.liveatlas.earth/volcanoes/sarychev-peak/
+76,257020,Gaua,Vanuatu,Stratovolcano,-14.281,167.514,729,18,3,3,2022,https://www.liveatlas.earth/volcanoes/gaua/
+77,264220,Iliboleng,Indonesia,Stratovolcano,-8.342,123.258,1659,18,2,2,1993,https://www.liveatlas.earth/volcanoes/iliboleng/
+78,282050,Kuchinoerabujima,Japan,Stratovolcano,30.443,130.217,657,18,4,4,2020,https://www.liveatlas.earth/volcanoes/kuchinoerabujima/
+79,264180,Lewotobi,Indonesia,Stratovolcano,-8.542,122.775,1703,18,4,4,2026,https://www.liveatlas.earth/volcanoes/lewotobi/
+80,284170,Pagan,Northern Mariana Islands,Stratovolcano,18.13,145.8,570,18,4,4,2021,https://www.liveatlas.earth/volcanoes/pagan/
+81,264050,Sangeang Api,Indonesia,Volcanic complex,-8.2,119.07,1912,18,3,3,2022,https://www.liveatlas.earth/volcanoes/sangeang-api/
+82,256010,Tinakula,Solomon Islands,Stratovolcano,-10.386,165.804,796,18,3,3,2024,https://www.liveatlas.earth/volcanoes/tinakula/
+83,357090,Copahue,Chile,Stratovolcano,-37.856,-71.183,2953,17,2,2,2024,https://www.liveatlas.earth/volcanoes/copahue/
+84,282060,Kikai,Japan,Caldera,30.793,130.305,704,17,2,7,2025,https://www.liveatlas.earth/volcanoes/kikai/
+85,264030,Rinjani,Indonesia,Stratovolcano,-8.42,116.47,3726,17,3,7,2016,https://www.liveatlas.earth/volcanoes/rinjani/
+86,260010,Barren Island,India,Stratovolcano,12.278,93.858,354,16,2,2,2026,https://www.liveatlas.earth/volcanoes/barren-island/
+87,282090,Kirishimayama,Japan,Shield volcano,31.934,130.862,1700,16,3,4,2025,https://www.liveatlas.earth/volcanoes/kirishimayama/
+88,257070,Kuwae,Vanuatu,Caldera,-16.83,168.523,-2,16,3,3,1974,https://www.liveatlas.earth/volcanoes/kuwae/
+89,357070,Nevados de Chillán,Chile,Stratovolcano,-36.868,-71.378,3180,16,2,3,2022,https://www.liveatlas.earth/volcanoes/nevados-de-chillan/
+90,351060,Puracé,Colombia,Stratovolcano,2.31,-76.395,4650,16,2,3,2026,https://www.liveatlas.earth/volcanoes/purace/
+91,300270,Sheveluch,Russia,Stratovolcano,56.653,161.36,3283,16,4,5,2026,https://www.liveatlas.earth/volcanoes/sheveluch/
+92,273070,Taal,Philippines,Caldera,14.011,120.998,311,16,4,6,2026,https://www.liveatlas.earth/volcanoes/taal/
+93,311160,Atka Volcanic Complex,United States of America,Stratovolcano,52.331,-174.139,1518,15,3,3,2025,https://www.liveatlas.earth/volcanoes/atka-volcanic-complex/
+94,251010,Bam,Papua New Guinea,Stratovolcano,-3.613,144.818,685,15,2,3,1960,https://www.liveatlas.earth/volcanoes/bam/
+95,257060,East Epi,Vanuatu,Stratovolcano,-16.68,168.389,833,15,3,3,2023,https://www.liveatlas.earth/volcanoes/east-epi/
+96,264250,Iliwerung,Indonesia,Volcanic complex,-8.532,123.573,583,15,2,3,2021,https://www.liveatlas.earth/volcanoes/iliwerung/
+97,332020,Mauna Loa,United States of America,Shield volcano,19.475,-155.608,4170,15,0,2,2022,https://www.liveatlas.earth/volcanoes/mauna-loa/
+98,233010,Mount Karthala,Comoros,Shield volcano,-11.766,43.364,2350,15,3,3,2007,https://www.liveatlas.earth/volcanoes/mount-karthala/
+99,223030,Mount Nyiragongo,Democratic Republic of the Congo,Stratovolcano,-1.52,29.25,3470,15,2,2,2026,https://www.liveatlas.earth/volcanoes/mount-nyiragongo/
+100,284096,Nishinoshima,Japan,Caldera,27.244,140.88,160,15,2,2,2023,https://www.liveatlas.earth/volcanoes/nishinoshima/
+101,352010,Reventador,Ecuador,Stratovolcano,-0.077,-77.656,3562,15,4,4,2026,https://www.liveatlas.earth/volcanoes/reventador/
+102,263090,Tangkuban Parahu,Indonesia,Stratovolcano,-6.77,107.6,2084,15,2,2,2019,https://www.liveatlas.earth/volcanoes/tangkuban-parahu/
+103,285050,Tokachidake,Japan,Stratovolcano,43.418,142.686,2077,15,3,3,2004,https://www.liveatlas.earth/volcanoes/tokachidake/
+104,312160,Trident Volcano,United States of America,Stratovolcano,58.236,-155.1,1864,15,3,3,1974,https://www.liveatlas.earth/volcanoes/trident-volcano/
+105,290380,Ebeko,Russia,Stratovolcano,50.686,156.014,1103,14,2,2,2024,https://www.liveatlas.earth/volcanoes/ebeko/
+106,343030,Izalco,El Salvador,Stratovolcano,13.813,-89.633,1950,14,3,3,1966,https://www.liveatlas.earth/volcanoes/izalco/
+107,360160,Kick-'em-Jenny,Grenada,Volcanic complex,12.3,-61.64,-185,14,1,1,2017,https://www.liveatlas.earth/volcanoes/kick-em-jenny/
+108,390020,Mount Erebus,Antarctica,Stratovolcano,-77.53,167.17,3794,14,2,2,2026,https://www.liveatlas.earth/volcanoes/mount-erebus/
+109,357010,Tupungatito,Argentina,Stratovolcano,-33.425,-69.797,5660,14,2,2,1987,https://www.liveatlas.earth/volcanoes/tupungatito/
+110,284141,Ahyi,United States of America,Stratovolcano,20.437,145.03,-55,13,2,2,2026,https://www.liveatlas.earth/volcanoes/ahyi/
+111,290390,Alaid,Russia,Stratovolcano,50.861,155.565,2285,13,4,4,2022,https://www.liveatlas.earth/volcanoes/alaid/
+112,373030,Bardarbunga,Iceland,Stratovolcano,64.633,-17.516,2000,13,2,6,2015,https://www.liveatlas.earth/volcanoes/bardarbunga/
+113,352050,Cotopaxi volcano,Ecuador,Stratovolcano,-0.677,-78.436,5911,13,3,5,2023,https://www.liveatlas.earth/volcanoes/cotopaxi-volcano/
+114,284140,Farallon de Pajaros,United States of America,Stratovolcano,20.546,144.893,337,13,2,2,1953,https://www.liveatlas.earth/volcanoes/farallon-de-pajaros/
+115,284133,Fukujin,United States of America,Stratovolcano,21.93,143.47,-217,13,1,1,1974,https://www.liveatlas.earth/volcanoes/fukujin/
+116,285020,Hokkaido-Komagatake,Japan,Stratovolcano,42.063,140.677,1131,13,4,5,2000,https://www.liveatlas.earth/volcanoes/hokkaido-komagatake/
+117,284040,Miyakejima,Japan,Stratovolcano,34.094,139.526,775,13,3,4,2010,https://www.liveatlas.earth/volcanoes/miyakejima/
+118,300060,Mutnovsky,Russia,Volcanic complex,52.449,158.196,2288,13,3,3,2000,https://www.liveatlas.earth/volcanoes/mutnovsky/
+119,252140,Rabaul (Tavurvur),Papua New Guinea,Caldera,-4.246,152.194,688,13,4,6,2014,https://www.liveatlas.earth/volcanoes/rabaul-tavurvur/
+120,282080,Sakurajima (Aira Caldera),Japan,Caldera,31.577,130.659,1117,13,4,6,2026,https://www.liveatlas.earth/volcanoes/sakurajima-aira-caldera/
+121,354020,Ubinas,Peru,Stratovolcano,-16.345,-70.897,5608,13,3,5,2024,https://www.liveatlas.earth/volcanoes/ubinas/
+122,352020,Guagua Pichincha,Ecuador,Stratovolcano,-0.171,-78.598,4784,12,3,5,2002,https://www.liveatlas.earth/volcanoes/guagua-pichincha/
+123,234010,Heard Island (Big Ben),Heard Island and McDonald Islands,Stratovolcano,-53.106,73.513,2745,12,2,2,2026,https://www.liveatlas.earth/volcanoes/heard-island-big-ben/
+124,333060,Macdonald,France,Shield volcano,-28.98,-140.25,-39,12,0,0,1989,https://www.liveatlas.earth/volcanoes/macdonald/
+125,311290,Mount Okmok,United States of America,Shield volcano,53.43,-168.13,1073,12,4,6,2008,https://www.liveatlas.earth/volcanoes/mount-okmok/
+126,264270,Mount Sirung,Indonesia,Volcanic complex,-8.497,124.131,1347,12,2,2,2021,https://www.liveatlas.earth/volcanoes/mount-sirung/
+127,357040,Planchón-Peteroa,Chile,Stratovolcano,-35.223,-70.568,3977,12,2,4,2025,https://www.liveatlas.earth/volcanoes/planchon-peteroa/
+128,257030,Ambae (Manaro Voui),Vanuatu,Shield volcano,-15.389,167.835,1496,11,3,3,2026,https://www.liveatlas.earth/volcanoes/ambae-manaro-voui/
+129,358020,Calbuco,Chile,Stratovolcano,-41.33,-72.618,1974,11,4,5,2015,https://www.liveatlas.earth/volcanoes/calbuco/
+130,353060,Cerro Azul,Ecuador,Shield volcano,-0.92,-91.408,1640,11,3,3,2008,https://www.liveatlas.earth/volcanoes/cerro-azul/
+131,311120,Great Sitkin Volcano,United States of America,Stratovolcano,52.076,-176.13,1740,11,2,2,2026,https://www.liveatlas.earth/volcanoes/great-sitkin-volcano/
+132,345060,Irazú Volcano,Costa Rica,Stratovolcano,9.979,-83.852,3436,11,3,3,1977,https://www.liveatlas.earth/volcanoes/irazu-volcano/
+133,268040,Mount Gamkonora,Indonesia,Stratovolcano,1.38,127.53,1635,11,2,5,2007,https://www.liveatlas.earth/volcanoes/mount-gamkonora/
+134,342110,Pacaya,Guatemala,Volcanic complex,14.382,-90.601,2569,11,3,3,2021,https://www.liveatlas.earth/volcanoes/pacaya/
+135,345070,Turrialba,Costa Rica,Stratovolcano,10.025,-83.767,3340,11,3,4,2022,https://www.liveatlas.earth/volcanoes/turrialba/
+136,357060,Cerro Azul,Chile,Stratovolcano,-35.653,-70.761,3788,10,5,5,1967,https://www.liveatlas.earth/volcanoes/cerro-azul-357060/
+137,290260,Chirinkotan,Russia,Stratovolcano,48.98,153.48,724,10,3,3,2022,https://www.liveatlas.earth/volcanoes/chirinkotan/
+138,311070,Gareloi Volcano,United States of America,Stratovolcano,51.79,-178.794,1573,10,3,3,1989,https://www.liveatlas.earth/volcanoes/gareloi-volcano/
+139,251030,Karkar,Papua New Guinea,Stratovolcano,-4.647,145.976,1839,10,3,4,1979,https://www.liveatlas.earth/volcanoes/karkar/
+140,263280,Kelud,Indonesia,Stratovolcano,-7.935,112.314,1730,10,4,5,2014,https://www.liveatlas.earth/volcanoes/kelud/
+141,251050,Long Island,Papua New Guinea,Volcanic complex,-5.314,147.105,1263,10,3,6,1993,https://www.liveatlas.earth/volcanoes/long-island/
+142,311310,Makushin Volcano,United States of America,Stratovolcano,53.891,-166.923,1800,10,2,5,1995,https://www.liveatlas.earth/volcanoes/makushin-volcano/
+143,261160,Mount Talang,Indonesia,Stratovolcano,-0.979,100.681,2575,10,2,2,2007,https://www.liveatlas.earth/volcanoes/mount-talang/
+144,283090,Niigata-Yakeyama,Japan,Lava dome,36.921,138.036,2400,10,2,4,1998,https://www.liveatlas.earth/volcanoes/niigata-yakeyama/
+145,341090,Popocatépetl,Mexico,Stratovolcano,19.023,-98.622,5393,10,3,5,2026,https://www.liveatlas.earth/volcanoes/popocatepetl/
+146,354006,Sabancaya,Peru,Stratovolcano,-15.787,-71.857,5960,10,3,3,2026,https://www.liveatlas.earth/volcanoes/sabancaya/
+147,352080,Tungurahua volcano,Ecuador,Stratovolcano,-1.467,-78.442,5023,10,4,5,2016,https://www.liveatlas.earth/volcanoes/tungurahua-volcano/
+148,353020,Volcán Wolf,Ecuador,Shield volcano,0.02,-91.35,1710,10,4,4,2022,https://www.liveatlas.earth/volcanoes/volcan-wolf/
+149,311300,Bogoslof,United States of America,Stratovolcano,53.93,-168.03,150,9,3,3,2017,https://www.liveatlas.earth/volcanoes/bogoslof/
+150,300070,Gorely,Russia,Caldera,52.555,158.036,1799,9,3,3,2010,https://www.liveatlas.earth/volcanoes/gorely/
+151,224010,Mount Cameroon,Cameroon,Stratovolcano,4.203,9.17,4095,9,2,3,2000,https://www.liveatlas.earth/volcanoes/mount-cameroon/
+152,315020,Mount Wrangell,United States of America,Shield volcano,62.006,-144.017,4278,9,2,4,1912,https://www.liveatlas.earth/volcanoes/mount-wrangell/
+153,357150,Puyehue-Cordón Caulle,Chile,Stratovolcano,-40.59,-72.117,2236,9,5,5,2012,https://www.liveatlas.earth/volcanoes/puyehue-cordon-caulle/
+154,352090,Sangay volcano,Ecuador,Stratovolcano,-2.005,-78.341,5286,9,3,3,2026,https://www.liveatlas.earth/volcanoes/sangay-volcano/
+155,353050,Sierra Negra,Ecuador,Shield volcano,-0.83,-91.17,1124,9,3,3,2018,https://www.liveatlas.earth/volcanoes/sierra-negra/
+156,300120,Zhupanovsky,Russia,Compound volcano,53.589,159.15,2899,9,3,3,2016,https://www.liveatlas.earth/volcanoes/zhupanovsky/
+157,283260,Akita-Yakeyama,Japan,Stratovolcano,39.964,140.757,1366,8,2,2,1997,https://www.liveatlas.earth/volcanoes/akita-yakeyama/
+158,373060,Askja,Iceland,Stratovolcano,65.033,-16.783,1080,8,2,5,1961,https://www.liveatlas.earth/volcanoes/askja/
+159,300100,Avachinsky,Russia,Stratovolcano,53.256,158.836,2717,8,4,5,2001,https://www.liveatlas.earth/volcanoes/avachinsky/
+160,263350,Ijen,Indonesia,Stratovolcano,-8.058,114.242,2769,8,2,2,1999,https://www.liveatlas.earth/volcanoes/ijen/
+161,290120,Kolokol Group,Russia,Stratovolcano,46.042,150.083,1328,8,3,3,1973,https://www.liveatlas.earth/volcanoes/kolokol-group/
+162,267040,Mount Awu,Indonesia,Stratovolcano,3.689,125.447,1318,8,4,4,2004,https://www.liveatlas.earth/volcanoes/mount-awu/
+163,311110,Mount Kanaga,United States of America,Stratovolcano,51.923,-177.168,1307,8,2,2,2023,https://www.liveatlas.earth/volcanoes/mount-kanaga/
+164,264150,Paluweh,Indonesia,Stratovolcano,-8.32,121.708,875,8,3,3,2013,https://www.liveatlas.earth/volcanoes/paluweh/
+165,313010,Augustine Volcano,United States of America,Lava dome,59.363,-153.435,1218,7,4,4,2006,https://www.liveatlas.earth/volcanoes/augustine-volcano/
+166,290070,Etorofu-Yakeyama [Grozny Group],Russia,Volcanic complex,45.011,147.872,1147,7,2,2,2013,https://www.liveatlas.earth/volcanoes/etorofu-yakeyama-grozny-group/
+167,372070,Hekla,Iceland,Stratovolcano,63.983,-19.666,1490,7,4,5,2000,https://www.liveatlas.earth/volcanoes/hekla/
+168,243080,Home Reef,Tonga,Stratovolcano,-18.992,-174.775,-10,7,3,3,2026,https://www.liveatlas.earth/volcanoes/home-reef/
+169,311020,Kiska,United States of America,Stratovolcano,52.103,177.602,1220,7,3,3,1990,https://www.liveatlas.earth/volcanoes/kiska/
+170,358060,Lautaro,Chile,Stratovolcano,-49.019,-73.504,3542,7,2,2,1979,https://www.liveatlas.earth/volcanoes/lautaro/
+171,261220,Mount Kaba,Indonesia,Stratovolcano,-3.516,102.626,1962,7,2,2,2000,https://www.liveatlas.earth/volcanoes/mount-kaba/
+172,313030,Mount Redoubt,United States of America,Stratovolcano,60.485,-152.742,3108,7,3,3,2009,https://www.liveatlas.earth/volcanoes/mount-redoubt/
+173,243110,Niuafoʻou,Tonga,Shield volcano,-15.6,-175.63,260,7,2,4,1946,https://www.liveatlas.earth/volcanoes/niuafo-ou/
+174,261030,Peuet Sague,Indonesia,Volcanic complex,4.903,96.289,2785,7,2,2,2000,https://www.liveatlas.earth/volcanoes/peuet-sague/
+175,252080,Witori,Papua New Guinea,Caldera,-5.574,150.516,724,7,3,6,2012,https://www.liveatlas.earth/volcanoes/witori/
+176,274030,Babuyan Claro,Philippines,Stratovolcano,19.524,121.95,1064,6,2,3,1924,https://www.liveatlas.earth/volcanoes/babuyan-claro/
+177,390030,Deception Island,Antarctica,Caldera,-62.957,-60.637,602,6,3,3,1970,https://www.liveatlas.earth/volcanoes/deception-island/
+178,264100,Ebulobo,Indonesia,Stratovolcano,-8.817,121.191,2096,6,2,2,1969,https://www.liveatlas.earth/volcanoes/ebulobo/
+179,221080,Erta Ale,Ethiopia,Shield volcano,13.601,40.666,585,6,2,2,2025,https://www.liveatlas.earth/volcanoes/erta-ale/
+180,284210,Esmeralda Bank,United States of America,Stratovolcano,14.958,145.249,-74,6,2,2,,https://www.liveatlas.earth/volcanoes/esmeralda-bank/
+181,263060,Gede-Pangrango,Indonesia,Stratovolcano,-6.786,106.983,3026,6,2,3,1957,https://www.liveatlas.earth/volcanoes/gede-pangrango/
+182,243040,Hunga Tonga–Hunga Haʻapai,Tonga,Caldera,-20.553,-175.384,114,6,5,5,2022,https://www.liveatlas.earth/volcanoes/hunga-tonga-hunga-ha-apai/
+183,284090,Izu-Torishima,Japan,Stratovolcano,30.484,140.303,394,6,3,3,2002,https://www.liveatlas.earth/volcanoes/izu-torishima/
+184,284121,Kita-Fukutokutai,Japan,Stratovolcano,24.417,141.417,-73,6,1,1,1954,https://www.liveatlas.earth/volcanoes/kita-fukutokutai/
+185,373080,Krafla,Iceland,Caldera,65.715,-16.728,800,6,1,4,1984,https://www.liveatlas.earth/volcanoes/krafla/
+186,258010,Matthew Island,France,Stratovolcano,-22.33,171.32,177,6,2,2,1956,https://www.liveatlas.earth/volcanoes/matthew-island/
+187,284131,Minami-Hiyoshi,Japan,Stratovolcano,23.5,141.935,-107,6,0,0,1975,https://www.liveatlas.earth/volcanoes/minami-hiyoshi/
+188,267010,Mount Ruang,Indonesia,Stratovolcano,2.306,125.367,703,6,4,4,2024,https://www.liveatlas.earth/volcanoes/mount-ruang/
+189,351020,Nevado del Ruiz,Colombia,Stratovolcano,4.892,-75.324,5279,6,3,4,2026,https://www.liveatlas.earth/volcanoes/nevado-del-ruiz/
+190,334050,Northern EPR at 9.8°N,Undersea Features,Fissure vent,9.83,-104.3,-2500,6,0,0,2025,https://www.liveatlas.earth/volcanoes/northern-epr-at-9-8-n/
+191,263040,Perbakti-Gagak,Indonesia,Stratovolcano,-6.75,106.675,1726,6,1,1,1939,https://www.liveatlas.earth/volcanoes/perbakti-gagak/
+192,241130,Rumble III,New Zealand,Stratovolcano,-35.745,178.478,-220,6,0,0,2008,https://www.liveatlas.earth/volcanoes/rumble-iii/
+193,390090,Saunders,United Kingdom,Stratovolcano,-57.8,-26.483,843,6,1,2,2026,https://www.liveatlas.earth/volcanoes/saunders/
+194,321050,St. Helens,United States of America,Stratovolcano,46.2,-122.18,2549,6,5,6,2008,https://www.liveatlas.earth/volcanoes/st-helens/
+195,243060,Tofua,Tonga,Caldera,-19.75,-175.07,515,6,2,2,2026,https://www.liveatlas.earth/volcanoes/tofua/
+196,283180,Azumayama,Japan,Stratovolcano,37.735,140.244,1949,5,1,3,1977,https://www.liveatlas.earth/volcanoes/azumayama/
+197,390080,Bristol Island,United Kingdom,Stratovolcano,-59.017,-26.533,1100,5,3,3,2016,https://www.liveatlas.earth/volcanoes/bristol-island/
+198,243100,Fonualei,Tonga,Stratovolcano,-18.023,-174.317,188,5,2,4,1957,https://www.liveatlas.earth/volcanoes/fonualei/
+199,355020,Guallatiri,Chile,Stratovolcano,-18.42,-69.092,6071,5,2,2,1960,https://www.liveatlas.earth/volcanoes/guallatiri/
+200,284100,Kaitoku Seamount,Japan,Stratovolcano,26.127,141.102,-95,5,1,1,2023,https://www.liveatlas.earth/volcanoes/kaitoku-seamount/
+201,332000,Kamaehuakanaloa,United States of America,Shield volcano,18.92,-155.27,-975,5,0,0,1996,https://www.liveatlas.earth/volcanoes/kamaehuakanaloa/
+202,243070,Lateiki,Tonga,Stratovolcano,-19.18,-174.87,43,5,2,2,2019,https://www.liveatlas.earth/volcanoes/lateiki/
+203,264230,Lewotolok,Indonesia,Stratovolcano,-8.274,123.508,1431,5,2,3,2026,https://www.liveatlas.earth/volcanoes/lewotolok/
+204,234011,McDonald Islands,Australia,Volcanic complex,-53.039,72.595,263,5,1,1,2005,https://www.liveatlas.earth/volcanoes/mcdonald-islands/
+205,268030,Mount Ibu,Indonesia,Stratovolcano,1.494,127.632,1357,5,2,2,2026,https://www.liveatlas.earth/volcanoes/mount-ibu/
+206,311180,Mount Seguam,United States of America,Stratovolcano,52.315,-172.51,1054,5,3,5,1993,https://www.liveatlas.earth/volcanoes/mount-seguam/
+207,371020,Reykjanes,Iceland,Crater rows,63.817,-22.717,140,5,1,4,2025,https://www.liveatlas.earth/volcanoes/reykjanes/
+208,251070,Ritter Island,Papua New Guinea,Stratovolcano,-5.519,148.115,75,5,2,3,2007,https://www.liveatlas.earth/volcanoes/ritter-island/
+209,311060,Semisopochnoi,United States of America,Stratovolcano,51.93,179.58,1221,5,2,2,2023,https://www.liveatlas.earth/volcanoes/semisopochnoi/
+210,243030,Tofua Arc at 20.9°S,Tonga,Stratovolcano,-20.852,-175.55,-296,5,1,1,2017,https://www.liveatlas.earth/volcanoes/tofua-arc-at-20-9-s/
+211,284200,Anatahan,United States of America,Stratovolcano,16.35,145.67,790,4,3,3,2008,https://www.liveatlas.earth/volcanoes/anatahan/
+212,331021,Axial Seamount,Undersea Features,Fissure vent,45.95,-130,-1410,4,0,0,2015,https://www.liveatlas.earth/volcanoes/axial-seamount/
+213,267030,Banua Wuhu,Indonesia,Volcanic complex,3.146,125.442,-5,4,3,3,1919,https://www.liveatlas.earth/volcanoes/banua-wuhu/
+214,357091,Callaqui,Chile,Stratovolcano,-37.928,-71.446,3099,4,1,2,1980,https://www.liveatlas.earth/volcanoes/callaqui/
+215,290030,Chachadake [Tiatia],Russia,Stratovolcano,44.354,146.253,1772,4,4,4,1981,https://www.liveatlas.earth/volcanoes/chachadake-tiatia/
+216,274020,Didicas,Philippines,Compound volcano,19.077,122.202,228,4,2,2,1978,https://www.liveatlas.earth/volcanoes/didicas/
+217,384010,Fogo,Cape Verde,Stratovolcano,14.95,-24.35,2829,4,2,2,2015,https://www.liveatlas.earth/volcanoes/fogo/
+218,243050,Fonuafoʻou,Tonga,Stratovolcano,-20.32,-175.42,-17,4,2,3,1936,https://www.liveatlas.earth/volcanoes/fonuafo-ou/
+219,282020,Io-Torishima,Japan,Volcanic complex,27.881,128.223,212,4,2,2,1968,https://www.liveatlas.earth/volcanoes/io-torishima/
+220,290200,Ketoi,Russia,Stratovolcano,47.35,152.475,1172,4,2,2,1960,https://www.liveatlas.earth/volcanoes/ketoi/
+221,264020,Mount Agung,Indonesia,Stratovolcano,-8.343,115.508,2997,4,5,5,2022,https://www.liveatlas.earth/volcanoes/mount-agung/
+222,311190,Mount Amukta,United States of America,Stratovolcano,52.5,-171.252,1066,4,3,3,1996,https://www.liveatlas.earth/volcanoes/mount-amukta/
+223,264160,Mount Egon,Indonesia,Stratovolcano,-8.676,122.455,1661,4,2,2,2008,https://www.liveatlas.earth/volcanoes/mount-egon/
+224,313020,Mount Iliamna,United States of America,Stratovolcano,60.032,-153.09,3053,4,2,4,1876,https://www.liveatlas.earth/volcanoes/mount-iliamna/
+225,312150,Mount Mageik,United States of America,Stratovolcano,58.195,-155.253,2165,4,2,2,-500,https://www.liveatlas.earth/volcanoes/mount-mageik/
+226,266110,Mount Mahawu,Indonesia,Stratovolcano,1.352,124.865,1299,4,2,2,1977,https://www.liveatlas.earth/volcanoes/mount-mahawu/
+227,265060,Mount Nila,Indonesia,Stratovolcano,-6.73,129.5,781,4,2,2,1968,https://www.liveatlas.earth/volcanoes/mount-nila/
+228,263050,Mount Salak,Indonesia,Stratovolcano,-6.716,106.733,2218,4,2,2,1938,https://www.liveatlas.earth/volcanoes/mount-salak/
+229,261080,Mount Sinabung,Indonesia,Stratovolcano,3.17,98.392,2460,4,4,4,2021,https://www.liveatlas.earth/volcanoes/mount-sinabung/
+230,311340,Mount Westdahl,United States of America,Stratovolcano (probable),54.516,-164.65,1563,4,3,4,1992,https://www.liveatlas.earth/volcanoes/mount-westdahl/
+231,283150,Nasudake,Japan,Stratovolcano,37.125,139.963,1915,4,1,3,1963,https://www.liveatlas.earth/volcanoes/nasudake/
+232,283040,Ontakesan,Japan,Volcanic complex,35.893,137.481,3067,4,3,3,2014,https://www.liveatlas.earth/volcanoes/ontakesan/
+233,273083,Pinatubo,Philippines,Stratovolcano,15.13,120.35,1486,4,6,6,2021,https://www.liveatlas.earth/volcanoes/pinatubo/
+234,343020,Santa Ana Volcano,El Salvador,Stratovolcano,13.853,-89.63,2381,4,3,3,2005,https://www.liveatlas.earth/volcanoes/santa-ana-volcano/
+235,212040,Santorini,Greece,Shield volcano,36.404,25.396,367,4,2,7,1950,https://www.liveatlas.earth/volcanoes/santorini/
+236,261120,Sorikmarapi,Indonesia,Stratovolcano,0.683,99.541,2145,4,2,2,1986,https://www.liveatlas.earth/volcanoes/sorikmarapi/
+237,360150,Soufriere St. Vincent,Saint Vincent and the Grenadines,Stratovolcano,13.33,-61.18,1220,4,4,4,2021,https://www.liveatlas.earth/volcanoes/soufriere-st-vincent/
+238,263210,Sundoro,Indonesia,Stratovolcano,-7.301,109.997,3149,4,2,2,1971,https://www.liveatlas.earth/volcanoes/sundoro/
+239,333010,Teahitia,France,Compound volcano,-17.564,-148.821,-1743,4,0,0,1985,https://www.liveatlas.earth/volcanoes/teahitia/
+240,222030,The Barrier,Kenya,Shield volcano,2.32,36.57,1032,4,2,2,1921,https://www.liveatlas.earth/volcanoes/the-barrier/
+241,285030,Tōya,Japan,Stratovolcano,42.544,140.839,733,4,3,5,2001,https://www.liveatlas.earth/volcanoes/toya/
+242,344090,Volcán Momotombo,Nicaragua,Stratovolcano,12.423,-86.539,1270,4,2,4,2016,https://www.liveatlas.earth/volcanoes/volcan-momotombo/
+243,283190,Zaozan [Zaosan],Japan,Volcanic complex,38.144,140.44,1841,4,1,4,1940,https://www.liveatlas.earth/volcanoes/zaozan-zaosan/
+244,342080,Acatenango,Guatemala,Stratovolcano,14.501,-90.876,3976,3,3,3,1972,https://www.liveatlas.earth/volcanoes/acatenango/
+245,283230,Akita-Komagatake,Japan,Stratovolcano,39.761,140.799,1637,3,2,4,1971,https://www.liveatlas.earth/volcanoes/akita-komagatake/
+246,345033,Arenal Volcano,Costa Rica,Stratovolcano,10.463,-84.703,1670,3,3,4,2010,https://www.liveatlas.earth/volcanoes/arenal-volcano/
+247,263290,Arjuno-Welirang,Indonesia,Stratovolcano,-7.733,112.575,3343,3,2,2,1952,https://www.liveatlas.earth/volcanoes/arjuno-welirang/
+248,265090,Banda Api,Indonesia,Caldera,-4.523,129.881,596,3,3,3,1988,https://www.liveatlas.earth/volcanoes/banda-api/
+249,264260,Batu Tara,Indonesia,Stratovolcano,-7.791,123.585,633,3,2,2,2015,https://www.liveatlas.earth/volcanoes/batu-tara/
+250,261050,Bur ni Telong,Indonesia,Stratovolcano,4.769,96.821,2617,3,2,2,1937,https://www.liveatlas.earth/volcanoes/bur-ni-telong/
+251,357140,Carrán-Los Venados,Chile,Pyroclastic cone,-40.35,-72.07,1114,3,4,4,1979,https://www.liveatlas.earth/volcanoes/carran-los-venados/
+252,358057,Cerro Hudson,Chile,Stratovolcano,-45.9,-72.97,1905,3,5,6,2011,https://www.liveatlas.earth/volcanoes/cerro-hudson/
+253,290150,Chirpoi,Russia,Caldera,46.532,150.871,742,3,2,4,2016,https://www.liveatlas.earth/volcanoes/chirpoi/
+254,263170,Ciremai,Indonesia,Stratovolcano,-6.895,108.408,3039,3,2,3,1951,https://www.liveatlas.earth/volcanoes/ciremai/
+255,371032,Fagradalsfjall,Iceland,Fissure vent,63.895,-22.258,250,3,0,0,2023,https://www.liveatlas.earth/volcanoes/fagradalsfjall/
+256,263140,Galunggung,Indonesia,Stratovolcano,-7.25,108.058,2168,3,4,5,1984,https://www.liveatlas.earth/volcanoes/galunggung/
+257,376010,Jan Mayen,Norway,Stratovolcano,71.082,-8.155,2197,3,3,4,1985,https://www.liveatlas.earth/volcanoes/jan-mayen/
+258,372030,Katla,Iceland,Fissure vent,63.633,-19.083,1490,3,4,5,1918,https://www.liveatlas.earth/volcanoes/katla/
+259,300090,Koryaksky,Russia,Stratovolcano,53.321,158.712,3430,3,3,3,2009,https://www.liveatlas.earth/volcanoes/koryaksky/
+260,252070,Krummel-Garbuna-Welcker,Papua New Guinea,Stratovolcano,-5.416,150.027,564,3,2,2,2008,https://www.liveatlas.earth/volcanoes/krummel-garbuna-welcker/
+261,283210,Kurikomayama,Japan,Stratovolcano,38.961,140.788,,3,2,2,1950,https://www.liveatlas.earth/volcanoes/kurikomayama/
+262,373050,Kverkfjöll,Iceland,Stratovolcano,64.653,-16.647,1930,3,1,1,1968,https://www.liveatlas.earth/volcanoes/kverkfjoll/
+263,383010,La Palma,Spain,Stratovolcano,28.57,-17.83,2426,3,3,3,2021,https://www.liveatlas.earth/volcanoes/la-palma/
+264,252130,Lolobau,Papua New Guinea,Caldera,-4.916,151.162,878,3,4,4,1912,https://www.liveatlas.earth/volcanoes/lolobau/
+265,357100,Lonquimay,Chile,Stratovolcano,-38.379,-71.586,2832,3,3,3,1990,https://www.liveatlas.earth/volcanoes/lonquimay/
+266,312110,Mount Chiginagak,United States of America,Stratovolcano,57.135,-156.99,2221,3,2,2,1998,https://www.liveatlas.earth/volcanoes/mount-chiginagak/
+267,264110,Mount Iya,Indonesia,Stratovolcano,-8.891,121.641,618,3,3,3,1969,https://www.liveatlas.earth/volcanoes/mount-iya/
+268,263100,Mount Papandayan,Indonesia,Stratovolcano,-7.317,107.731,2643,3,2,3,2002,https://www.liveatlas.earth/volcanoes/mount-papandayan/
+269,290100,Moyorodake [Medvezhia],Japan,Stratovolcano,45.389,148.838,1124,3,2,2,1999,https://www.liveatlas.earth/volcanoes/moyorodake-medvezhia/
+270,290320,Nemo Peak,Russia,Caldera,49.564,154.813,994,3,2,2,1938,https://www.liveatlas.earth/volcanoes/nemo-peak/
+271,351050,Nevado del Huila,Colombia,Stratovolcano,2.93,-76.03,5364,3,3,3,2012,https://www.liveatlas.earth/volcanoes/nevado-del-huila/
+272,242030,Raoul Island,New Zealand,Stratovolcano,-29.27,-177.92,516,3,2,6,2006,https://www.liveatlas.earth/volcanoes/raoul-island/
+273,333020,Rocard,France,Volcanic cone,-17.662,-148.586,-2515,3,0,0,1972,https://www.liveatlas.earth/volcanoes/rocard/
+274,284202,Ruby,United States of America,Stratovolcano,15.605,145.572,-174,3,1,1,2023,https://www.liveatlas.earth/volcanoes/ruby/
+275,342030,Santa María,Guatemala,Stratovolcano,14.757,-91.552,3745,3,6,6,2026,https://www.liveatlas.earth/volcanoes/santa-maria/
+276,341021,Socorro,Mexico,Shield volcano,18.78,-110.95,1050,3,2,2,1994,https://www.liveatlas.earth/volcanoes/socorro/
+277,360060,Soufriere Guadeloupe,France,Stratovolcano,16.044,-61.664,1467,3,2,4,1977,https://www.liveatlas.earth/volcanoes/soufriere-guadeloupe/
+278,360050,Soufrière Hills,Montserrat,Stratovolcano,16.72,-62.18,915,3,3,3,2013,https://www.liveatlas.earth/volcanoes/soufriere-hills/
+279,334120,Southern EPR at 17.5°S (Segment K),Undersea Features,Fissure vent,-17.436,-113.206,-2566,3,0,0,1990,https://www.liveatlas.earth/volcanoes/southern-epr-at-17-5-s-segment-k/
+280,211040,Stromboli,Italy,Stratovolcano,38.789,15.213,924,3,3,3,2026,https://www.liveatlas.earth/volcanoes/stromboli/
+281,244000,Vailuluu,United States of America,Shield volcano,-14.215,-169.058,-592,3,0,0,2003,https://www.liveatlas.earth/volcanoes/vailuluu/
+282,358030,Volcán Huequi,Chile,Lava dome,-42.377,-72.578,1318,3,2,3,1920,https://www.liveatlas.earth/volcanoes/volcan-huequi/
+283,357021,Volcán Maipo,Argentina,Caldera,-34.164,-69.832,5323,3,2,2,1912,https://www.liveatlas.earth/volcanoes/volcan-maipo/
+284,283170,Adatarayama,Japan,Stratovolcano,37.647,140.281,1728,2,2,3,1996,https://www.liveatlas.earth/volcanoes/adatarayama/
+285,353040,Alcedo Volcano,Ecuador,Shield volcano,-0.43,-91.12,1130,2,1,1,1993,https://www.liveatlas.earth/volcanoes/alcedo-volcano/
+286,284150,Asuncion,United States of America,Stratovolcano,19.671,145.406,857,2,2,2,1906,https://www.liveatlas.earth/volcanoes/asuncion/
+287,390100,Candlemas Island,United Kingdom,Stratovolcano,-57.08,-26.67,550,2,2,2,1911,https://www.liveatlas.earth/volcanoes/candlemas-island/
+288,331030,Cleft Segment,Undersea Features,Fissure vent,44.83,-130.3,-2140,2,0,0,1986,https://www.liveatlas.earth/volcanoes/cleft-segment/
+289,331020,CoAxial Segment,Undersea Features,Fissure vent,46.52,-129.58,-2400,2,0,0,1993,https://www.liveatlas.earth/volcanoes/coaxial-segment/
+290,266010,Colo,Indonesia,Stratovolcano,-0.162,121.601,404,2,4,4,1983,https://www.liveatlas.earth/volcanoes/colo/
+291,243102,Curacoa volcano,Tonga,Volcanic complex,-15.62,-173.67,-33,2,3,3,1979,https://www.liveatlas.earth/volcanoes/curacoa-volcano/
+292,242010,Curtis Island,New Zealand,Stratovolcano,-30.543,-178.556,47,2,0,0,,https://www.liveatlas.earth/volcanoes/curtis-island/
+293,221041,Dallol,Ethiopia,Explosion craters,14.242,40.3,-48,2,1,1,2011,https://www.liveatlas.earth/volcanoes/dallol/
+294,268010,Dukono,Indonesia,Volcanic complex,1.699,127.878,1273,2,3,3,2026,https://www.liveatlas.earth/volcanoes/dukono/
+295,290270,Ekarma,Russia,Stratovolcano,48.958,153.93,1170,2,2,2,2010,https://www.liveatlas.earth/volcanoes/ekarma/
+296,334070,Galapagos Rift at 86°W,Ecuador,Fissure vent,0.792,-86.15,-2430,2,0,0,1996,https://www.liveatlas.earth/volcanoes/galapagos-rift-at-86-w/
+297,264090,Inielika,Indonesia,Volcanic complex,-8.73,120.98,1559,2,2,2,2001,https://www.liveatlas.earth/volcanoes/inielika/
+298,355040,Irruputuncu,Bolivia,Stratovolcano,-20.73,-68.55,5163,2,2,2,1995,https://www.liveatlas.earth/volcanoes/irruputuncu/
+299,355030,Isluga,Chile,Stratovolcano,-19.15,-68.83,5550,2,2,2,1913,https://www.liveatlas.earth/volcanoes/isluga/
+300,283240,Iwatesan,Japan,Volcanic complex,39.853,141.001,2038,2,1,3,1919,https://www.liveatlas.earth/volcanoes/iwatesan/
+301,283010,Izu-Tobu,Japan,Pyroclastic cone,34.903,139.095,580,2,1,4,1989,https://www.liveatlas.earth/volcanoes/izu-tobu/
+302,284134,Kasuga 1,United States of America,Stratovolcano,21.765,143.71,-598,2,0,0,1959,https://www.liveatlas.earth/volcanoes/kasuga-1/
+303,264140,Kelimutu,Indonesia,Volcanic complex,-8.77,121.82,1639,2,2,2,1968,https://www.liveatlas.earth/volcanoes/kelimutu/
+304,290300,Kharimkotan,Russia,Stratovolcano,49.12,154.508,1145,2,5,5,1933,https://www.liveatlas.earth/volcanoes/kharimkotan/
+305,300230,Kizimen,Russia,Stratovolcano,55.131,160.32,2334,2,3,5,2013,https://www.liveatlas.earth/volcanoes/kizimen/
+306,290130,Kuril Arc at 46.3°N,Russia,,46.294,150.853,-100,2,0,0,,https://www.liveatlas.earth/volcanoes/kuril-arc-at-46-3-n/
+307,344080,Las Pilas-El Hoyo Complex,Nicaragua,Volcanic complex,12.492,-86.679,1088,2,2,2,1954,https://www.liveatlas.earth/volcanoes/las-pilas-el-hoyo-complex/
+308,300140,Maly Semyachik,Russia,Caldera,54.135,159.674,1527,2,2,4,1952,https://www.liveatlas.earth/volcanoes/maly-semyachik/
+309,221115,Manda Hararo,Ethiopia,Shield volcano,12.17,40.82,600,2,2,2,2009,https://www.liveatlas.earth/volcanoes/manda-hararo/
+310,234070,Marion Island,South Africa,Shield volcano,-46.9,37.75,1230,2,1,1,2004,https://www.liveatlas.earth/volcanoes/marion-island/
+311,290161,Milna,Russia,Stratovolcano,46.815,151.786,1504,2,2,3,1914,https://www.liveatlas.earth/volcanoes/milna/
+312,382110,Monaco Bank,Portugal,Fissure vent,37.6,-25.88,-197,2,1,1,1911,https://www.liveatlas.earth/volcanoes/monaco-bank/
+313,390081,Montagu Island,South Georgia and the South Sandwich Islands,Shield volcano,-58.445,-26.374,1370,2,1,1,2007,https://www.liveatlas.earth/volcanoes/montagu-island/
+314,333030,Moua Pihaa,France,Stratovolcano,-18.325,-148.525,-312,2,0,0,1970,https://www.liveatlas.earth/volcanoes/moua-pihaa/
+315,221112,Mount Alayta,Ethiopia,Shield volcano,12.888,40.573,1496,2,2,2,1915,https://www.liveatlas.earth/volcanoes/mount-alayta/
+316,312090,Mount Aniakchak,United States of America,Caldera,56.88,-158.17,1341,2,4,6,1931,https://www.liveatlas.earth/volcanoes/mount-aniakchak/
+317,312140,Mount Martin,United States of America,Stratovolcano,58.172,-155.361,1863,2,,,1953,https://www.liveatlas.earth/volcanoes/mount-martin/
+318,360120,Mount Pelée,France,Stratovolcano,14.809,-61.166,1372,2,4,4,1932,https://www.liveatlas.earth/volcanoes/mount-pelee/
+319,271060,Mount Ragang,Philippines,Stratovolcano,7.691,124.507,2790,2,2,2,1916,https://www.liveatlas.earth/volcanoes/mount-ragang/
+320,265070,Mount Serua,Indonesia,Stratovolcano,-6.312,130.017,608,2,2,4,1921,https://www.liveatlas.earth/volcanoes/mount-serua/
+321,313040,Mount Spurr,United States of America,Stratovolcano,61.299,-152.251,3374,2,4,4,1992,https://www.liveatlas.earth/volcanoes/mount-spurr/
+322,261180,Mount Sumbing,Indonesia,Stratovolcano,-2.414,101.728,2507,2,2,2,1921,https://www.liveatlas.earth/volcanoes/mount-sumbing/
+323,282040,Nakanoshima,Japan,Stratovolcano,29.859,129.857,979,2,1,1,1914,https://www.liveatlas.earth/volcanoes/nakanoshima/
+324,224004,Pico Basilé,Equatorial Guinea,Shield volcano,3.588,8.762,2999,2,,,1923,https://www.liveatlas.earth/volcanoes/pico-basile/
+325,341001,Pinacate,Mexico,Volcanic field,31.85,-113.5,1183,2,,,,https://www.liveatlas.earth/volcanoes/pinacate/
+326,290250,Raikoke,Russia,Stratovolcano,48.292,153.25,551,2,4,4,2019,https://www.liveatlas.earth/volcanoes/raikoke/
+327,264071,Ranakah,Indonesia,Lava dome,-8.637,120.53,2288,2,3,3,1991,https://www.liveatlas.earth/volcanoes/ranakah/
+328,357020,San José,Argentina,Stratovolcano,-33.789,-69.895,6070,2,2,2,1960,https://www.liveatlas.earth/volcanoes/san-jose/
+329,382030,Sao Jorge,Portugal,Fissure vent,38.65,-28.08,1053,2,0,3,1902,https://www.liveatlas.earth/volcanoes/sao-jorge/
+330,244040,Savaii,Samoa,Shield volcano,-13.612,-172.525,1858,2,2,2,1911,https://www.liveatlas.earth/volcanoes/savaii/
+331,250010,St. Andrew Strait,Papua New Guinea,Volcanic complex,-2.38,147.35,270,2,2,2,1957,https://www.liveatlas.earth/volcanoes/st-andrew-strait/
+332,261270,Suoh,Indonesia,Caldera,-5.25,104.27,1000,2,4,4,2024,https://www.liveatlas.earth/volcanoes/suoh/
+333,261150,Tandikat-Singgalang,Indonesia,Stratovolcano,-0.431,100.319,2879,2,1,1,1924,https://www.liveatlas.earth/volcanoes/tandikat-singgalang/
+334,357030,Tinguiririca Volcano,Chile,Stratovolcano,-34.814,-70.352,4280,2,2,2,1917,https://www.liveatlas.earth/volcanoes/tinguiririca-volcano/
+335,243091,Tofua Arc at 18.3°S,Tonga,Stratovolcano,-18.325,-174.365,-40,2,3,3,2019,https://www.liveatlas.earth/volcanoes/tofua-arc-at-18-3-s/
+336,243010,Tofua Arc at 21.3°S,Tonga,Stratovolcano,-21.338,-175.65,-68,2,0,0,1932,https://www.liveatlas.earth/volcanoes/tofua-arc-at-21-3-s/
+337,282100,Unzendake,Japan,Volcanic complex,32.761,130.299,1483,2,2,2,1996,https://www.liveatlas.earth/volcanoes/unzendake/
+338,372010,Vestmannaeyjar,Iceland,Fissure vent,63.416,-20.266,283,2,3,4,1973,https://www.liveatlas.earth/volcanoes/vestmannaeyjar/
+339,341130,Volcán Tacaná,Guatemala,Stratovolcano,15.132,-92.109,4064,2,1,4,1986,https://www.liveatlas.earth/volcanoes/volcan-tacana/
+340,311210,Yunaska,United States of America,Shield volcano,52.639,-170.632,550,2,3,3,1937,https://www.liveatlas.earth/volcanoes/yunaska/
+341,290180,Zavaritzki Caldera,Russia,Caldera,46.918,151.952,612,2,3,3,1957,https://www.liveatlas.earth/volcanoes/zavaritzki-caldera/
+342,390130,Zavodovski,United Kingdom,Stratovolcano,-56.3,-27.57,551,2,1,2,2016,https://www.liveatlas.earth/volcanoes/zavodovski/
+343,300040,Zheltovsky,Russia,Stratovolcano,51.577,157.328,1926,2,3,5,1923,https://www.liveatlas.earth/volcanoes/zheltovsky/
+344,221020,Zubair Group,Yemen,Shield volcano,15.05,42.18,191,2,2,2,2013,https://www.liveatlas.earth/volcanoes/zubair-group/
+345,221170,Adwa,Ethiopia,Stratovolcano,10.063,40.831,1670,1,2,2,,https://www.liveatlas.earth/volcanoes/adwa/
+346,284160,Agrigan,Northern Mariana Islands,Stratovolcano,18.77,145.67,965,1,4,4,1917,https://www.liveatlas.earth/volcanoes/agrigan/
+347,300125,Akademia Nauk,Russia,Stratovolcano,53.98,159.45,1180,1,3,3,1996,https://www.liveatlas.earth/volcanoes/akademia-nauk/
+348,283130,Akagisan,Japan,Stratovolcano,36.56,139.193,1828,1,,3,,https://www.liveatlas.earth/volcanoes/akagisan/
+349,221060,Alu-Dalafilla,Ethiopia,Fissure vent,13.793,40.553,578,1,3,3,2008,https://www.liveatlas.earth/volcanoes/alu-dalafilla/
+350,266020,Ambang,Indonesia,Volcanic complex,0.75,124.42,1795,1,1,1,2005,https://www.liveatlas.earth/volcanoes/ambang/
+351,354004,Andahua-Orcopampa,Peru,Volcanic field,-15.42,-72.33,4713,1,,,1490,https://www.liveatlas.earth/volcanoes/andahua-orcopampa/
+352,355160,Aracar,Argentina,Stratovolcano,-24.29,-67.783,6095,1,2,2,,https://www.liveatlas.earth/volcanoes/aracar/
+353,221126,Ardoukoba,Djibouti,Fissure vent,11.58,42.47,298,1,1,1,1978,https://www.liveatlas.earth/volcanoes/ardoukoba/
+354,304030,Ashikule Volcanic Field,People's Republic of China,Volcanic field,35.742,81.646,5090,1,2,2,1951,https://www.liveatlas.earth/volcanoes/ashikule-volcanic-field/
+355,221160,Ayelu,Ethiopia,Stratovolcano,10.082,40.702,2145,1,2,2,,https://www.liveatlas.earth/volcanoes/ayelu/
+356,272080,Biliran,Philippines,Compound volcano,11.523,124.535,1301,1,1,1,1939,https://www.liveatlas.earth/volcanoes/biliran/
+357,234000,Boomerang Seamount,France,Caldera,-37.722,77.822,-650,1,0,0,1995,https://www.liveatlas.earth/volcanoes/boomerang-seamount/
+358,221250,Bora-Bericha-Tullu Moye,Ethiopia,Pyroclastic cone,8.211,39.081,2345,1,1,1,1900,https://www.liveatlas.earth/volcanoes/bora-bericha-tullu-moye/
+359,271080,Camiguin,Philippines,Stratovolcano,9.203,124.673,1552,1,3,3,1953,https://www.liveatlas.earth/volcanoes/camiguin/
+360,211070,Campi Flegrei del Mar di Sicilia,Italy,Volcanic field,37.1,12.7,-8,1,1,3,1867,https://www.liveatlas.earth/volcanoes/campi-flegrei-del-mar-di-sicilia/
+361,358041,Chaitén,Chile,Caldera,-42.835,-72.651,1122,1,4,5,2011,https://www.liveatlas.earth/volcanoes/chaiten/
+362,305060,Changbaishan,North Korea,Stratovolcano,41.98,128.08,2744,1,,6,1903,https://www.liveatlas.earth/volcanoes/changbaishan/
+363,351110,Chiles-Cerro Negro,Ecuador,Stratovolcano,0.817,-77.938,4698,1,2,2,1936,https://www.liveatlas.earth/volcanoes/chiles-cerro-negro/
+364,283220,Chokaisan,Japan,Stratovolcano,39.099,140.049,2236,1,1,3,1974,https://www.liveatlas.earth/volcanoes/chokaisan/
+365,351100,Cumbal,Colombia,Stratovolcano,0.95,-77.87,4764,1,2,2,1926,https://www.liveatlas.earth/volcanoes/cumbal/
+366,221113,Dabbahu Volcano,Ethiopia,Stratovolcano,12.595,40.48,1401,1,3,3,2005,https://www.liveatlas.earth/volcanoes/dabbahu-volcano/
+367,357050,Descabezado Grande,Chile,Stratovolcano,-35.58,-70.75,3953,1,3,3,1933,https://www.liveatlas.earth/volcanoes/descabezado-grande/
+368,382070,Don Joao de Castro Bank,Portugal,Shield volcano,38.23,-26.63,-13,1,0,3,1720,https://www.liveatlas.earth/volcanoes/don-joao-de-castro-bank/
+369,221100,Dubbi Volcano,Eritrea,Stratovolcano,13.579,41.809,1625,1,,3,1861,https://www.liveatlas.earth/volcanoes/dubbi-volcano/
+370,377020,East Gakkel Ridge at 85 E,Undersea Features,Fissure vent,85.608,85.25,-3800,1,2,2,1999,https://www.liveatlas.earth/volcanoes/east-gakkel-ridge-at-85-e/
+371,341120,El Chichón,Mexico,Lava dome,17.36,-93.23,1150,1,5,5,1982,https://www.liveatlas.earth/volcanoes/el-chichon/
+372,354010,El Misti,Peru,Stratovolcano,-16.299,-71.406,5793,1,1,4,1985,https://www.liveatlas.earth/volcanoes/el-misti/
+373,371022,Eldey,Iceland,Fissure vent,63.733,-23,70,1,0,4,1926,https://www.liveatlas.earth/volcanoes/eldey/
+374,222051,Emuruangogolak,Kenya,Shield volcano,1.5,36.33,1285,1,0,0,1910,https://www.liveatlas.earth/volcanoes/emuruangogolak/
+375,374020,Esjufjöll,Iceland,Stratovolcano,64.25,-16.583,1620,1,1,1,,https://www.liveatlas.earth/volcanoes/esjufjoll/
+376,290050,Etorofu-Atosanupuri [Atosanupuri],Japan,Stratovolcano,44.808,147.131,1209,1,2,2,1932,https://www.liveatlas.earth/volcanoes/etorofu-atosanupuri-atosanupuri/
+377,372020,Eyjafjallajökull,Iceland,Stratovolcano,63.633,-19.633,1651,1,4,4,2010,https://www.liveatlas.earth/volcanoes/eyjafjallajokull/
+378,233040,Fani Maoré,France,Volcanic cone,-12.912,45.708,-2500,1,0,0,2019,https://www.liveatlas.earth/volcanoes/fani-maore/
+379,382010,Fayal,Portugal,Stratovolcano,38.576,-28.713,1041,1,2,2,1958,https://www.liveatlas.earth/volcanoes/fayal/
+380,312260,Fourpeaked,United States of America,Stratovolcano,58.77,-153.672,2105,1,2,2,2006,https://www.liveatlas.earth/volcanoes/fourpeaked/
+381,290340,Fuss Peak,Russia,Stratovolcano,50.267,155.246,1742,1,,3,1854,https://www.liveatlas.earth/volcanoes/fuss-peak/
+382,258001,Gemini-Oscostar,Vanuatu,Stratovolcano,-20.957,170.13,-33,1,1,1,1996,https://www.liveatlas.earth/volcanoes/gemini-oscostar/
+383,275001,Hainan Volcanic Field,People's Republic of China,Volcanic field,19.905,110.229,196,1,,,1933,https://www.liveatlas.earth/volcanoes/hainan-volcanic-field/
+384,283020,Hakoneyama,Japan,Volcanic complex,35.233,139.021,1438,1,1,3,2015,https://www.liveatlas.earth/volcanoes/hakoneyama/
+385,231120,Harras of Dhamar,Yemen,Volcanic field,14.57,44.67,3500,1,2,2,,https://www.liveatlas.earth/volcanoes/harras-of-dhamar/
+386,242005,Havre Seamount,New Zealand,Stratovolcano,-31.08,-179.033,-897,1,1,1,2012,https://www.liveatlas.earth/volcanoes/havre-seamount/
+387,221091,Hayli Gubbi,Ethiopia,Shield volcano,13.511,40.716,493,1,4,4,2025,https://www.liveatlas.earth/volcanoes/hayli-gubbi/
+388,383020,Hierro,Spain,Shield volcano,27.73,-18.03,1500,1,2,2,2012,https://www.liveatlas.earth/volcanoes/hierro/
+389,335020,Hollister Ridge,Undersea Features,Fissure vent,-53.998,-139.845,-1000,1,0,0,,https://www.liveatlas.earth/volcanoes/hollister-ridge/
+390,390028,Hudson Mountains,Antarctica,Stratovolcano,-74.33,-99.42,749,1,,4,-207,https://www.liveatlas.earth/volcanoes/hudson-mountains/
+391,258020,Hunter Island,France,Stratovolcano,-22.4,172.05,297,1,0,0,1903,https://www.liveatlas.earth/volcanoes/hunter-island/
+392,275060,Ile des Cendres,Vietnam,Volcanic field,10.158,109.014,-20,1,2,2,1923,https://www.liveatlas.earth/volcanoes/ile-des-cendres/
+393,300030,Iliinsky,Russia,Stratovolcano,51.498,157.203,1555,1,3,5,1901,https://www.liveatlas.earth/volcanoes/iliinsky/
+394,320090,Iskut-Unuk River Cones,Canada,Pyroclastic cone,56.567,-130.75,1880,1,,,1800,https://www.liveatlas.earth/volcanoes/iskut-unuk-river-cones/
+395,221010,Jebel at Tair,Yemen,Stratovolcano,15.55,41.83,244,1,3,3,2008,https://www.liveatlas.earth/volcanoes/jebel-at-tair/
+396,251002,Kadovar,Papua New Guinea,Stratovolcano,-3.608,144.588,365,1,2,2,2023,https://www.liveatlas.earth/volcanoes/kadovar/
+397,311260,Kagamil,United States of America,Stratovolcano,52.974,-169.72,893,1,,,1929,https://www.liveatlas.earth/volcanoes/kagamil/
+398,300010,Kambalny,Russia,Stratovolcano,51.306,156.875,2116,1,3,3,2017,https://www.liveatlas.earth/volcanoes/kambalny/
+399,311130,Kasatochi,United States of America,Stratovolcano,52.177,-175.508,314,1,4,4,2008,https://www.liveatlas.earth/volcanoes/kasatochi/
+400,268070,Kie Besi,Indonesia,Stratovolcano,0.32,127.4,1357,1,3,4,1988,https://www.liveatlas.earth/volcanoes/kie-besi/
+401,300190,Krasheninnikov,Russia,Caldera,54.596,160.27,1816,1,3,4,2026,https://www.liveatlas.earth/volcanoes/krasheninnikov/
+402,300050,Ksudach,Russia,Stratovolcano,51.804,157.529,1007,1,5,6,1907,https://www.liveatlas.earth/volcanoes/ksudach/
+403,282120,Kujusan,Japan,Stratovolcano,33.086,131.249,1791,1,1,4,1996,https://www.liveatlas.earth/volcanoes/kujusan/
+404,222010,Lake Turkana Central Island,Kenya,Tuff cone,3.496,36.037,518,1,1,1,,https://www.liveatlas.earth/volcanoes/lake-turkana-central-island/
+405,323080,Lassen Volcanic Center,United States of America,Stratovolcano,40.492,-121.508,3187,1,3,3,1917,https://www.liveatlas.earth/volcanoes/lassen-volcanic-center/
+406,221122,Manda-Inakir,Ethiopia,Fissure vent,12.38,42.2,600,1,2,2,1928,https://www.liveatlas.earth/volcanoes/manda-inakir/
+407,353080,Marchena,Ecuador,Shield volcano,0.33,-90.47,343,1,2,2,1991,https://www.liveatlas.earth/volcanoes/marchena/
+408,284305,Mariana Back-Arc Segment at 15.5°N,United States of America,Fissure vent,15.406,144.506,-4100,1,0,0,2015,https://www.liveatlas.earth/volcanoes/mariana-back-arc-segment-at-15-5-n/
+409,323020,Medicine Lake Volcano,United States of America,Shield volcano,41.611,-121.554,2412,1,1,3,1060,https://www.liveatlas.earth/volcanoes/medicine-lake-volcano/
+410,333040,Mehetia,France,Stratovolcano,-17.874,-148.068,389,1,0,0,,https://www.liveatlas.earth/volcanoes/mehetia/
+411,212020,Methana Volcano,Greece,Lava dome,37.619,23.333,380,1,,3,-258,https://www.liveatlas.earth/volcanoes/methana-volcano/
+412,358040,Michinmahuida,Chile,Stratovolcano,-42.799,-72.445,2452,1,2,6,1835,https://www.liveatlas.earth/volcanoes/michinmahuida/
+413,341060,Michoacan-Guanajuato,Mexico,Volcanic field,19.85,-101.75,3860,1,4,4,1952,https://www.liveatlas.earth/volcanoes/michoacan-guanajuato/
+414,345030,Miravalles Volcano,Costa Rica,Stratovolcano,10.748,-85.153,2028,1,1,1,1946,https://www.liveatlas.earth/volcanoes/miravalles-volcano/
+415,357130,Mocho-Choshuenco,Chile,Stratovolcano,-39.927,-72.027,2422,1,,2,1937,https://www.liveatlas.earth/volcanoes/mocho-choshuenco/
+416,358070,Monte Burney,Chile,Stratovolcano,-52.33,-73.4,1758,1,2,5,1910,https://www.liveatlas.earth/volcanoes/monte-burney/
+417,360101,Morne Watt,Dominica,Stratovolcano,15.307,-61.305,1224,1,1,2,1997,https://www.liveatlas.earth/volcanoes/morne-watt/
+418,273050,Mount Banahaw,Philippines,Volcanic complex,14.07,121.48,2158,1,,,,https://www.liveatlas.earth/volcanoes/mount-banahaw/
+419,311230,Mount Carlisle,United States of America,Stratovolcano,52.894,-170.054,1620,1,,,1828,https://www.liveatlas.earth/volcanoes/mount-carlisle/
+420,390110,Mount Hodson,United Kingdom,Stratovolcano,-56.712,-27.176,835,1,,,,https://www.liveatlas.earth/volcanoes/mount-hodson/
+421,312170,Mount Katmai,United States of America,Stratovolcano,58.279,-154.953,2047,1,3,3,1912,https://www.liveatlas.earth/volcanoes/mount-katmai/
+422,312060,Mount Kupreanof,United States of America,Stratovolcano,56.011,-159.797,1895,1,1,1,,https://www.liveatlas.earth/volcanoes/mount-kupreanof/
+423,253010,Mount Lamington,Papua New Guinea,Stratovolcano,-8.95,148.15,1680,1,4,4,1956,https://www.liveatlas.earth/volcanoes/mount-lamington/
+424,263320,Mount Lamongan,Indonesia,Stratovolcano,-7.981,113.341,1641,1,2,3,1898,https://www.liveatlas.earth/volcanoes/mount-lamongan/
+425,271020,Mount Matutum,Philippines,Stratovolcano,6.36,125.077,2262,1,,,1290,https://www.liveatlas.earth/volcanoes/mount-matutum/
+426,222160,Mount Meru,Tanzania,Stratovolcano,-3.244,36.75,4550,1,2,4,1910,https://www.liveatlas.earth/volcanoes/mount-meru/
+427,382020,Mount Pico,Portugal,Stratovolcano,38.47,-28.4,2351,1,0,2,1720,https://www.liveatlas.earth/volcanoes/mount-pico/
+428,265050,Mount Teon,Indonesia,Stratovolcano,-6.976,129.144,728,1,2,4,1904,https://www.liveatlas.earth/volcanoes/mount-teon/
+429,311270,Mount Vsevidof,United States of America,Stratovolcano,53.126,-168.687,2160,1,2,3,1878,https://www.liveatlas.earth/volcanoes/mount-vsevidof/
+430,223045,Mugogo,Democratic Republic of the Congo,Volcanic cone,-1.369,29.48,2338,1,1,1,1957,https://www.liveatlas.earth/volcanoes/mugogo/
+431,221101,Nabro Volcano,Eritrea,Stratovolcano,13.37,41.7,2218,1,4,4,2012,https://www.liveatlas.earth/volcanoes/nabro-volcano/
+432,351030,Nevado del Tolima,Colombia,Stratovolcano,4.658,-75.33,5215,1,2,5,1943,https://www.liveatlas.earth/volcanoes/nevado-del-tolima/
+433,355130,Nevados Ojos del Salado,Argentina,Stratovolcano,-27.109,-68.541,6879,1,1,1,750,https://www.liveatlas.earth/volcanoes/nevados-ojos-del-salado/
+434,386011,Nightingale Island,United Kingdom,Stratovolcano,-37.42,-12.48,365,1,0,0,2004,https://www.liveatlas.earth/volcanoes/nightingale-island/
+435,284132,Nikko,Japan,Stratovolcano,23.078,142.326,-392,1,0,0,,https://www.liveatlas.earth/volcanoes/nikko/
+436,283140,Nikko-Shiranesan,Japan,Shield volcano,36.799,139.376,2578,1,2,3,1952,https://www.liveatlas.earth/volcanoes/nikko-shiranesan/
+437,331031,North Gorda Ridge Segment,United States of America,Fissure vent,42.67,-126.78,-3000,1,0,0,1996,https://www.liveatlas.earth/volcanoes/north-gorda-ridge-segment/
+438,334040,Northern EPR at 10.7°N,Undersea Features,Fissure vent,10.73,-103.58,-2900,1,0,0,2003,https://www.liveatlas.earth/volcanoes/northern-epr-at-10-7-n/
+439,312180,Novarupta,United States of America,Caldera,58.266,-155.159,841,1,6,6,1912,https://www.liveatlas.earth/volcanoes/novarupta/
+440,284211,NW Rota-1,United States of America,Stratovolcano,14.601,144.775,-455,1,0,0,2010,https://www.liveatlas.earth/volcanoes/nw-rota-1/
+441,224030,Oku Volcanic Field,Cameroon,Volcanic field,6.25,10.5,3011,1,,3,,https://www.liveatlas.earth/volcanoes/oku-volcanic-field/
+442,390031,Penguin Island,Antarctica,Stratovolcano,-62.1,-57.93,180,1,,,1905,https://www.liveatlas.earth/volcanoes/penguin-island/
+443,353070,Pinta,Ecuador,Shield volcano,0.586,-90.755,729,1,,,,https://www.liveatlas.earth/volcanoes/pinta/
+444,390140,Protector Seamounts,United Kingdom,Volcanic field,-55.912,-28.167,-55,1,1,1,1962,https://www.liveatlas.earth/volcanoes/protector-seamounts/
+445,355107,Pular,Chile,Stratovolcano,-24.188,-68.054,6233,1,1,1,,https://www.liveatlas.earth/volcanoes/pular/
+446,357160,Puntiagudo-Cordón Cenizos,Chile,Stratovolcano,-40.969,-72.264,2493,1,,,1850,https://www.liveatlas.earth/volcanoes/puntiagudo-cordon-cenizos/
+447,355090,Putana,Bolivia,Stratovolcano,-22.557,-67.853,5884,1,,,1810,https://www.liveatlas.earth/volcanoes/putana/
+448,261251,Ranau,Indonesia,Caldera,-4.871,103.925,1854,1,,,,https://www.liveatlas.earth/volcanoes/ranau/
+449,290220,Rasshua,Russia,Stratovolcano,47.77,153.02,956,1,1,3,1957,https://www.liveatlas.earth/volcanoes/rasshua/
+450,290020,Raususan [Mendeleev],Russia,Stratovolcano,43.979,145.733,882,1,2,2,1880,https://www.liveatlas.earth/volcanoes/raususan-mendeleev/
+451,358063,Reclus,Chile,Pyroclastic cone,-50.939,-73.58,1403,1,1,2,1908,https://www.liveatlas.earth/volcanoes/reclus/
+452,341110,San Martin,Mexico,Volcanic field,18.562,-95.199,1660,1,,4,1796,https://www.liveatlas.earth/volcanoes/san-martin/
+453,343050,San Salvador Volcano,El Salvador,Stratovolcano,13.734,-89.294,1893,1,3,4,1917,https://www.liveatlas.earth/volcanoes/san-salvador-volcano/
+454,353090,Santiago,Ecuador,Shield volcano,-0.22,-90.77,920,1,0,0,1906,https://www.liveatlas.earth/volcanoes/santiago/
+455,290080,Sashiusudake [Baransky],Russia,Stratovolcano,45.104,148.014,1128,1,1,1,1951,https://www.liveatlas.earth/volcanoes/sashiusudake-baransky/
+456,253040,Sessagara Hills,Papua New Guinea,Volcanic field,-9.554,149.128,493,1,3,3,1944,https://www.liveatlas.earth/volcanoes/sessagara-hills/
+457,285090,Shiretoko-Iozan,Japan,Stratovolcano,44.133,145.161,1562,1,1,2,1936,https://www.liveatlas.earth/volcanoes/shiretoko-iozan/
+458,255050,Simbo,Solomon Islands,Stratovolcano,-8.292,156.52,335,1,,,1910,https://www.liveatlas.earth/volcanoes/simbo/
+459,290290,Sinarka,Russia,Stratovolcano,48.873,154.182,911,1,1,4,1878,https://www.liveatlas.earth/volcanoes/sinarka/
+460,284091,Sofugan,Japan,Stratovolcano,29.794,140.342,99,1,0,0,,https://www.liveatlas.earth/volcanoes/sofugan/
+461,284193,South Sarigan Seamount,United States of America,Stratovolcano,16.58,145.78,-184,1,3,3,2010,https://www.liveatlas.earth/volcanoes/south-sarigan-seamount/
+462,334140,Southern EPR at 18.5°S (Segment I),Undersea Features,Fissure vent,-18.53,-113.42,-2600,1,0,0,1915,https://www.liveatlas.earth/volcanoes/southern-epr-at-18-5-s-segment-i/
+463,334100,Southern EPR at 8°S,Undersea Features,Fissure vent,-8.27,-107.95,-2800,1,0,0,1969,https://www.liveatlas.earth/volcanoes/southern-epr-at-8-s/
+464,390070,Southern Thule,United Kingdom,Stratovolcano,-59.442,-27.225,1075,1,1,1,1975,https://www.liveatlas.earth/volcanoes/southern-thule/
+465,314010,St. Paul Island,United States of America,Shield volcano,57.167,-170.213,203,1,,,-1280,https://www.liveatlas.earth/volcanoes/st-paul-island/
+466,282010,Submarine Volcano NNE of Iriomotejima,Japan,Stratovolcano,24.57,123.93,-200,1,4,4,1924,https://www.liveatlas.earth/volcanoes/submarine-volcano-nne-of-iriomotejima/
+467,352040,Sumaco,Ecuador,Stratovolcano,-0.538,-77.626,3990,1,2,3,1895,https://www.liveatlas.earth/volcanoes/sumaco/
+468,257010,Suretamatai,Vanuatu,Volcanic complex,-13.8,167.47,921,1,2,2,1966,https://www.liveatlas.earth/volcanoes/suretamatai/
+469,243120,Tafu-Maka,Tonga,Fissure vent,-15.37,-174.23,-1400,1,0,0,2008,https://www.liveatlas.earth/volcanoes/tafu-maka/
+470,261130,Talakmau,Indonesia,Volcanic complex,0.079,99.984,2911,1,1,1,,https://www.liveatlas.earth/volcanoes/talakmau/
+471,264040,Tambora,Indonesia,Stratovolcano,-8.25,118,2850,1,0,7,1967,https://www.liveatlas.earth/volcanoes/tambora/
+472,311080,Tanaga,United States of America,Stratovolcano,51.885,-178.146,1806,1,0,0,1914,https://www.liveatlas.earth/volcanoes/tanaga/
+473,290310,Tao-Rusyr Caldera,Russia,Stratovolcano,49.34,154.725,1272,1,3,6,1952,https://www.liveatlas.earth/volcanoes/tao-rusyr-caldera/
+474,383030,Tenerife,Spain,Stratovolcano,28.271,-16.641,3715,1,2,4,1909,https://www.liveatlas.earth/volcanoes/tenerife/
+475,382050,Terceira,Portugal,Stratovolcano,38.73,-27.32,1023,1,0,3,2000,https://www.liveatlas.earth/volcanoes/terceira/
+476,373012,Thordarhyrna,Iceland,Stratovolcano,64.267,-17.617,1650,1,4,4,1904,https://www.liveatlas.earth/volcanoes/thordarhyrna/
+477,250030,Titan Ridge,Papua New Guinea,Fissure vent,-3.03,147.78,-1300,1,0,0,1972,https://www.liveatlas.earth/volcanoes/titan-ridge/
+478,257090,Traitor's Head,Vanuatu,Stratovolcano,-18.754,169.238,817,1,,0,1881,https://www.liveatlas.earth/volcanoes/traitor-s-head/
+479,386010,Tristan da Cunha,Saint Helena,Shield volcano,-37.092,-12.28,2060,1,2,2,1962,https://www.liveatlas.earth/volcanoes/tristan-da-cunha/
+480,354040,Tutupaca,Peru,Stratovolcano,-17.026,-70.372,5801,1,2,4,1802,https://www.liveatlas.earth/volcanoes/tutupaca/
+481,335030,Udintsev Transform,Undersea Features,Fissure vent,-56.153,-143.373,-5700,1,0,0,,https://www.liveatlas.earth/volcanoes/udintsev-transform/
+482,312131,Ukinrek maars,United States of America,Maar,57.834,-156.52,91,1,3,3,1977,https://www.liveatlas.earth/volcanoes/ukinrek-maars/
+483,211020,Vesuvius,Italy,Stratovolcano,40.821,14.426,1281,1,3,5,1944,https://www.liveatlas.earth/volcanoes/vesuvius/
+484,341020,Volcán Bárcena,Mexico,Pyroclastic cone,19.3,-110.82,332,1,3,3,1953,https://www.liveatlas.earth/volcanoes/volcan-barcena/
+485,385052,Walvis Ridge at 33°S,Undersea Features,Volcanic cone,-32.958,-5.22,-1200,1,0,0,2002,https://www.liveatlas.earth/volcanoes/walvis-ridge-at-33-s/
+486,243130,West Mata,Tonga,Fissure vent,-15.1,-173.75,-1174,1,0,0,2009,https://www.liveatlas.earth/volcanoes/west-mata/
